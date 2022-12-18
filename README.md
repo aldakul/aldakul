@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aldakul, 23 y.o. Live in [Kazakhstan\Almaty](https://www.google.com/maps/place/Almaty/data=!4m2!3m1!1s0x38836e7d16c5cbab:0x3d44668fad986d76?sa=X)
-- 🌱 I’m currently developing in .NET 6
+- 👋 Hi, I’m @aldakul, 24 y.o.
+- 🌱 I’m currently developing in .NET 7
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/bauyrzhan-aldakul/
      - What's App: https://wa.me/77085406134
